@@ -1,4 +1,4 @@
-package com.login.mobi.loginapp.Models;
+package com.login.mobi.Assignment9.Models;
 
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;

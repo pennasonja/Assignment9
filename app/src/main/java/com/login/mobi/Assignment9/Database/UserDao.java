@@ -1,4 +1,4 @@
-package com.login.mobi.loginapp.Database;
+package com.login.mobi.Assignment9.Database;
 
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Delete;
@@ -6,7 +6,7 @@ import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
 import android.arch.persistence.room.Update;
 
-import com.login.mobi.loginapp.Models.User;
+import com.login.mobi.Assignment9.Models.User;
 
 @Dao
 public interface UserDao {

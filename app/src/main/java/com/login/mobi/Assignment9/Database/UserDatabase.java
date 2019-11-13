@@ -1,9 +1,9 @@
-package com.login.mobi.loginapp.Database;
+package com.login.mobi.Assignment9.Database;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.RoomDatabase;
 
-import com.login.mobi.loginapp.Models.User;
+import com.login.mobi.Assignment9.Models.User;
 
 @Database(entities = {User.class}, version = 1, exportSchema = false)
 

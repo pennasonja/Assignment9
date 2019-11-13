@@ -1,4 +1,4 @@
-package com.login.mobi.loginapp;
+package com.login.mobi.Assignment9;
 
 import android.app.ProgressDialog;
 import android.arch.persistence.room.Room;
@@ -12,9 +12,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.login.mobi.loginapp.Database.UserDao;
-import com.login.mobi.loginapp.Database.UserDatabase;
-import com.login.mobi.loginapp.Models.User;
+import com.login.mobi.Assignment9.Database.UserDao;
+import com.login.mobi.Assignment9.Database.UserDatabase;
+import com.login.mobi.Assignment9.Models.User;
 
 public class MainActivity extends AppCompatActivity {
 

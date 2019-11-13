@@ -3,18 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/girl"
-    tools:context="com.login.mobi.loginapp.MainActivity">
+    android:background="@drawable/chihu"
+    tools:context="com.login.mobi.Assignment9.MainActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:alpha="0.8"
-            android:background="@drawable/gradient_bg" />
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -76,12 +71,6 @@
                 android:textSize="17sp" />
         </RelativeLayout>
 
-        <ImageView
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="20dp"
-            android:src="@drawable/ic_google_white" />
 
         <Button
             android:id="@+id/btRegister"
